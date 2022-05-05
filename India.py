@@ -1,3 +1,7 @@
+'''@Author     : Ananya Chatterjee
+   @Description: Indian National Flag
+   @version    : 05 May 2022
+'''
 import turtle
 
 flag = turtle.Turtle()
